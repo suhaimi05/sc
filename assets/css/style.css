@@ -1,0 +1,49 @@
+.smart {
+    font-family:'Kanit', sans-serif;
+    font-size: 20px;
+    color: #5bcae2;
+    font-weight: bold;
+}
+
+.sc {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 200%;
+    color: #6e6c84;
+    font-weight: bold;
+}
+
+.kab {
+    font-family:'Kanit', sans-serif;
+    font-size: 130%;
+    color: #6e6c84;
+}
+
+.dimensi {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    color: #6e6c84;
+    font-weight: bold;
+}
+
+.apl {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    color: #6e6c84;
+}
+
+body {
+    background-image: url("https://iili.io/hlfJEX.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+}
