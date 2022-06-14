@@ -36,15 +36,12 @@
                     <div class="card-body">
                         <center>
                         <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="80%">
-                        <div class="sc">Governance</div>
+                        <div class="sc">Living</div>
                         <p style="text-indent: 45px;" align="justify">
-                            Smart Governance dapat diartikan sebagai tata kelola kota yang pintar, dimana komponen tata kelola ini umumnya menyoroti tata kelola dari pemerintah daerah sebagai institusi yang mengendalikan sendi-sendi kehidupan kota. Sehingga Smart Governance di dalam dimensi Smart City merupakan gambaran dari tata Kelola pemerintahan yang dilaksanakan secara pintar, yaitu tata kelola pemerintahan yang mampu mengubah pola-pola tradisional dalam birokrasi sehingga menghasilkan business process yang lebih cepat, efektif, efisien, komunikatif dan selalu melakukan perbaikan.
+                            Smart living menjadi salah satu dimensi dalam Smart City untuk menjamin kelayakan taraf hidup masyarakat di dalamnya. Kelayakan taraf hidup ini dapat dinilai dari tiga elemen, yaitu kelayakan pola hidup, kelayakan kualitas kesehatan, dan kelayakan moda transportasi untuk mendukung mobilitas orang dan barang di dalam sebuah Smart City.
                         </p>
                         <p style="text-indent: 45px;" align="justify">
-                            Sasaran dari Smart Governance adalah mewujudkan tata kelola dan tata pamong pemerintahan daerah yang ekfektif, efisien, komunikatif, dan terus melakukan peningkatan kinerja birokrasi melalui inovasi dan adopsi teknologi yang terpadu.
-                        </p>
-                        <p style="text-indent: 45px;" align="justify">
-                            Tentu saja dalam melakukan perubahan pola-pola tradisional dalam tata Kelola pemerintahan ini dapat dilakukan dengan berbagai cara, namun adopsi teknologi adalah hal yang akan memberikan percepatan terhadap perubahan tersebut. Smart Governance harus dapat dimplementasikan ke dalam tiga unsur dalam tata kelola, yaitu pelayanan (service), birokrasi (bureaucracy) dan kebijakan (policy).
+                            Sasaran dari smart living di dalam Smart City adalah untuk mewujudkan lingkungan tempat tinggal yang layak tinggal, nyaman, dan efisien.
                         </p>
                         <div class="kab">Aplikasi Terkait</div>
                         </center>

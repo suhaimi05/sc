@@ -36,15 +36,18 @@
                     <div class="card-body">
                         <center>
                         <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="80%">
-                        <div class="sc">Governance</div>
+                        <div class="sc">Branding</div>
                         <p style="text-indent: 45px;" align="justify">
-                            Smart Governance dapat diartikan sebagai tata kelola kota yang pintar, dimana komponen tata kelola ini umumnya menyoroti tata kelola dari pemerintah daerah sebagai institusi yang mengendalikan sendi-sendi kehidupan kota. Sehingga Smart Governance di dalam dimensi Smart City merupakan gambaran dari tata Kelola pemerintahan yang dilaksanakan secara pintar, yaitu tata kelola pemerintahan yang mampu mengubah pola-pola tradisional dalam birokrasi sehingga menghasilkan business process yang lebih cepat, efektif, efisien, komunikatif dan selalu melakukan perbaikan.
+                            Dimensi kedua dalam Smart City adalah Smart Branding, yaitu branding daerah yang pintar. Yang dimaksud dengan Smart Branding adalah inovasi dalam memasarkan daerahnya sehingga mampu meningkatkan daya saing daerah dengan mengembankan tiga elemen, yaitu pariwisata, bisnis, dan wajah kota.
                         </p>
                         <p style="text-indent: 45px;" align="justify">
-                            Sasaran dari Smart Governance adalah mewujudkan tata kelola dan tata pamong pemerintahan daerah yang ekfektif, efisien, komunikatif, dan terus melakukan peningkatan kinerja birokrasi melalui inovasi dan adopsi teknologi yang terpadu.
+                            Smart Branding menjadi salah satu dimensi dalam Smart City karena di dalam era informasi seperti saat ini, sebuah kota tidak lagi harus mampu memenuhi kebutuhan-kebutuhannya dengan hanya memanfaatkan potensi lokal-nya, tetapi harus juga mampu menarik partisipasi masyarakat, baik dari dalam maupun luar daerah, serta pelaku bisnis dan investor untuk ikut mendorong percepatan pembangunan daerahnya.
                         </p>
                         <p style="text-indent: 45px;" align="justify">
-                            Tentu saja dalam melakukan perubahan pola-pola tradisional dalam tata Kelola pemerintahan ini dapat dilakukan dengan berbagai cara, namun adopsi teknologi adalah hal yang akan memberikan percepatan terhadap perubahan tersebut. Smart Governance harus dapat dimplementasikan ke dalam tiga unsur dalam tata kelola, yaitu pelayanan (service), birokrasi (bureaucracy) dan kebijakan (policy).
+                            Sehingga pada dasarnya konsep branding daerah memiliki kemiripan dengan konsep branding di dalam korporasi, hanya saja perbedaannya adalah apabila di dalam branding korporasi tujuannya adalah meningkatkan brand value perusahaan yang berujung pada meningkatnya income dan profit perusahaan, pada branding daerah, tujuan yang ingin dicapai adalah peningkatan brand value daerah yang akan mendorong aktivitas perekonomian dan pengembangan kehidupan sosial dan budaya lokal yang berujung pada peningkatan kesejahteraan masyarakat.
+                        </p>
+                        <p style="text-indent: 45px;" align="justify">
+                            Sasaran dari smart branding adalah adanya peningkatan daya saing daerah dengan penataan wajah kota dan pemasaran potensi daerah baik dalam lingkup lokal, nasional maupun internasional.
                         </p>
                         <div class="kab">Aplikasi Terkait</div>
                         </center>

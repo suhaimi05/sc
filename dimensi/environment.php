@@ -36,15 +36,12 @@
                     <div class="card-body">
                         <center>
                         <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="80%">
-                        <div class="sc">Governance</div>
+                        <div class="sc">Environmet</div>
                         <p style="text-indent: 45px;" align="justify">
-                            Smart Governance dapat diartikan sebagai tata kelola kota yang pintar, dimana komponen tata kelola ini umumnya menyoroti tata kelola dari pemerintah daerah sebagai institusi yang mengendalikan sendi-sendi kehidupan kota. Sehingga Smart Governance di dalam dimensi Smart City merupakan gambaran dari tata Kelola pemerintahan yang dilaksanakan secara pintar, yaitu tata kelola pemerintahan yang mampu mengubah pola-pola tradisional dalam birokrasi sehingga menghasilkan business process yang lebih cepat, efektif, efisien, komunikatif dan selalu melakukan perbaikan.
+                            Dimensi keenam dalam sebuah Smart City adalah pengelolaan lingkungan yang pintar, dimana yang dimaksud dengan pintar adalah adanya perhatian bagi lingkungan hidup dalam pembangunan kota yang sama besarnya dengan perhatian yang diberikan terhadap pembangunan infrastruktur fisik maupun pembangunan bagi sarana dan prasarana bagi warga. Ide dasar dari smart environment di dalam Smart City adalah untuk mewujudkan pembangunan yang berkelanjutan, dimana hal tersebut tidak boleh hilang dengan lahirnya ide tentang Smart City yang menjadikan elemen teknologi sebagai elemen pendorongnya.
                         </p>
                         <p style="text-indent: 45px;" align="justify">
-                            Sasaran dari Smart Governance adalah mewujudkan tata kelola dan tata pamong pemerintahan daerah yang ekfektif, efisien, komunikatif, dan terus melakukan peningkatan kinerja birokrasi melalui inovasi dan adopsi teknologi yang terpadu.
-                        </p>
-                        <p style="text-indent: 45px;" align="justify">
-                            Tentu saja dalam melakukan perubahan pola-pola tradisional dalam tata Kelola pemerintahan ini dapat dilakukan dengan berbagai cara, namun adopsi teknologi adalah hal yang akan memberikan percepatan terhadap perubahan tersebut. Smart Governance harus dapat dimplementasikan ke dalam tiga unsur dalam tata kelola, yaitu pelayanan (service), birokrasi (bureaucracy) dan kebijakan (policy).
+                            Sasaran dari smart environment adalah mewujudkan tata kelola lingkungan yang baik, bertanggung-jawab, dan berkelanjutan.
                         </p>
                         <div class="kab">Aplikasi Terkait</div>
                         </center>

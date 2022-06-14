@@ -36,15 +36,12 @@
                     <div class="card-body">
                         <center>
                         <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="80%">
-                        <div class="sc">Governance</div>
+                        <div class="sc">Society</div>
                         <p style="text-indent: 45px;" align="justify">
-                            Smart Governance dapat diartikan sebagai tata kelola kota yang pintar, dimana komponen tata kelola ini umumnya menyoroti tata kelola dari pemerintah daerah sebagai institusi yang mengendalikan sendi-sendi kehidupan kota. Sehingga Smart Governance di dalam dimensi Smart City merupakan gambaran dari tata Kelola pemerintahan yang dilaksanakan secara pintar, yaitu tata kelola pemerintahan yang mampu mengubah pola-pola tradisional dalam birokrasi sehingga menghasilkan business process yang lebih cepat, efektif, efisien, komunikatif dan selalu melakukan perbaikan.
+                            Smart society sebagai bagian dari Smart City merupakan dimensi yang banyak membahas tentang manusia sebagai unsur utama sebuah kota. Di dalam sebuah Smart City, interaksi antar manusia telah bergerak menuju ekosistem sosio-teknis di mana dimensi fisik dan virtual dari kehidupan warga kota semakin terjalin secara intensif. Interaksi antar-warga terjalin dengan semakin kuat dan tanpa sekat dengan mediasi teknologi. 
                         </p>
                         <p style="text-indent: 45px;" align="justify">
-                            Sasaran dari Smart Governance adalah mewujudkan tata kelola dan tata pamong pemerintahan daerah yang ekfektif, efisien, komunikatif, dan terus melakukan peningkatan kinerja birokrasi melalui inovasi dan adopsi teknologi yang terpadu.
-                        </p>
-                        <p style="text-indent: 45px;" align="justify">
-                            Tentu saja dalam melakukan perubahan pola-pola tradisional dalam tata Kelola pemerintahan ini dapat dilakukan dengan berbagai cara, namun adopsi teknologi adalah hal yang akan memberikan percepatan terhadap perubahan tersebut. Smart Governance harus dapat dimplementasikan ke dalam tiga unsur dalam tata kelola, yaitu pelayanan (service), birokrasi (bureaucracy) dan kebijakan (policy).
+                            Sasaran dari smart society dalam Smart City adalah mewujudkan ekosistem sosio-teknis masyarakat yang humanis dan dinamis, baik fisik maupun virtual untuk terciptanya masyarakat yang produktif, komunikatif, dan interaktif dengan digital literacy yang tinggi. Sasaran dari smart society tersebut diwujudkan dengan pengembangan tiga elemen di dalam smart society, yaitu komunitas warga (community), ekosistem pembelajaran (learning), dan sistem keamanan (security).
                         </p>
                         <div class="kab">Aplikasi Terkait</div>
                         </center>
