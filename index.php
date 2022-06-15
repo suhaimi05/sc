@@ -13,7 +13,7 @@
     <!-- End button -->
     <!-- Container -->
     <div class="container mt-2">
-        <div id="Buku">
+    <div id="VisiMisi">
         <div class="row">
             <div class="col-md-12 mt-5">
                 <div data-aos="fade-up" data-aos-duration="3000">
@@ -22,9 +22,47 @@
                         <div class="text-center">
                             <!-- KONTEN -->
                             <div class="text-center">
+                                <div class="sc">Visi & Misi</div>
+                                <hr>
+                                <p>
+                                    <div class="kab">Visi</div>
+                                    "lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie mauris velit, ut auctor augue fringilla id. Praesent tincidunt lectus ut libero convallis viverra vel sit amet lectus. Nullam elementum et tortor at aliquet. Integer quis placerat eros."
+                                </p>
+                                <div class="kab">Misi</div>
+                            </div>
+                        </div>
+                            <ul>
+                                <li>
+                                    lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                </li>
+                                <li>
+                                    Nulla molestie mauris velit, ut auctor augue fringilla id.
+                                </li>
+                                <li>
+                                    Praesent tincidunt lectus ut libero convallis viverra vel sit amet lectus.
+                                </li>
+                            </ul>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+        <div id="Buku">
+        <div class="row">
+            <div class="col-md-12">
+                <div data-aos="fade-up" data-aos-duration="3000">
+                <div class="shadow p-3 mb-3 bg-light rounded mt-5">
+                    <div class="card-body">
+                        <div class="text-center">
+                            <!-- KONTEN -->
+                            <div class="text-center">
                                 <div class="sc">Buku Master Plan</div>
                                 <div class="kab">KABUPATEN TAPIN</div>
+                                <hr>
                             </div>
+                            <center>
                             <div class="row col-md-12 mt-3">
                                 <div class="col-md-3">
                                     <a href="files/Buku_1_Smart_City_Tapin.pdf" target="_blank">
@@ -51,6 +89,7 @@
                                     <div class="kab">Buku 4</div>
                                 </div>
                             </div>
+                            </center>
                         </div>
                     </div>
                 </div>
@@ -193,14 +232,14 @@
 
         <div class="row mt-4">
             <div class="col-md-6">
-                <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="zoom-in-down" data-aos-duration="2500">
                 <a href="#">
                     <img src="assets/img/bg/tapin.jpg" alt="FGD 1" class="img-thumbnail" width="100%">
                 </a>
                 </div>
             </div>
             <div class="col-md-6">
-                <div data-aos="fade-left" data-aos-duration="2000">
+                <div data-aos="zoom-in-down" data-aos-duration="2500">
                 <a href="#">
                     <img src="assets/img/bg/tapin.jpg" alt="FGD 2" class="img-thumbnail" width="100%">
                 </a>
@@ -209,14 +248,14 @@
         </div>
         <div class="row mt-3">
             <div class="col-md-6">
-                <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="zoom-in-down" data-aos-duration="2500">
                 <a href="#">
                     <img src="assets/img/bg/tapin.jpg" alt="FGD 3" class="img-thumbnail" width="100%">
                 </a>
                 </div>
             </div>
             <div class="col-md-6">
-                <div data-aos="fade-left" data-aos-duration="2000">
+                <div data-aos="zoom-in-down" data-aos-duration="2500">
                 <a href="#">
                     <img src="assets/img/bg/tapin.jpg" alt="FGD 4" class="img-thumbnail" width="100%">
                 </a>

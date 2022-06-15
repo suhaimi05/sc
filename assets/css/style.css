@@ -32,6 +32,14 @@
     color: #6e6c84;
 }
 
+.visimisi {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 200%;
+    color: #6e6c84;
+    font-weight: bold;
+}
+
 body {
     background-image: url("https://iili.io/hlfJEX.jpg");
     width: 100%;

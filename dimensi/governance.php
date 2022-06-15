@@ -14,19 +14,19 @@
     <div class="container-fluid">
         <div class="row mt-5">
             <div class="col-md-3 mt-5">
-                <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
                 <hr>
-                <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
                 <hr>
-                <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
                 <hr>
-                <div data-aos="fade-right" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
             </div>
@@ -53,19 +53,19 @@
             </div>
 
             <div class="col-md-3 mt-5">
-                <div data-aos="fade-left" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
                 <hr>
-                <div data-aos="fade-left" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
                 <hr>
-                <div data-aos="fade-left" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
                 <hr>
-                <div data-aos="fade-left" data-aos-duration="2000">
+                <div data-aos="flip-up" data-aos-duration="2500">
                     <img src="../assets/img/bg/tapin.jpg" class="img-thumbnail" width="100%">
                 </div>
             </div>
